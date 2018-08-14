@@ -1,7 +1,3 @@
-# I am testing Lagoon
-
-# I am testing lagoon again
-
 # Commerce 2.x project template
 
 Use [Composer](https://getcomposer.org/) to get Drupal + Commerce 2.x with all dependencies.
